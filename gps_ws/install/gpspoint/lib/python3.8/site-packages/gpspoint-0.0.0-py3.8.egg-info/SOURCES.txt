@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/gpspoint/gpspoint.egg-info/PKG-INFO
+../../build/gpspoint/gpspoint.egg-info/SOURCES.txt
+../../build/gpspoint/gpspoint.egg-info/dependency_links.txt
+../../build/gpspoint/gpspoint.egg-info/entry_points.txt
+../../build/gpspoint/gpspoint.egg-info/requires.txt
+../../build/gpspoint/gpspoint.egg-info/top_level.txt
+../../build/gpspoint/gpspoint.egg-info/zip-safe
+gpspoint/__init__.py
+gpspoint/gpspoint.py
+resource/gpspoint
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

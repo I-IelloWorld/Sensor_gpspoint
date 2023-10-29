@@ -1,0 +1,6 @@
+source;share/gpspoint/hook/pythonpath.ps1
+source;share/gpspoint/hook/pythonpath.dsv
+source;share/gpspoint/hook/pythonpath.sh
+source;share/gpspoint/hook/ament_prefix_path.ps1
+source;share/gpspoint/hook/ament_prefix_path.dsv
+source;share/gpspoint/hook/ament_prefix_path.sh

@@ -1,0 +1,24 @@
+[0.809s] Invoking command in '/home/osu/sensor_team/gps_ws/src/gpspoint': PYTHONPATH=/home/osu/sensor_team/gps_ws/build/gpspoint/prefix_override:/home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gpspoint build --build-base /home/osu/sensor_team/gps_ws/build/gpspoint/build install --record /home/osu/sensor_team/gps_ws/build/gpspoint/install.log --install-scripts $base/lib/gpspoint --single-version-externally-managed
+[0.920s] running egg_info
+[0.921s] writing ../../build/gpspoint/gpspoint.egg-info/PKG-INFO
+[0.921s] writing dependency_links to ../../build/gpspoint/gpspoint.egg-info/dependency_links.txt
+[0.921s] writing entry points to ../../build/gpspoint/gpspoint.egg-info/entry_points.txt
+[0.921s] writing requirements to ../../build/gpspoint/gpspoint.egg-info/requires.txt
+[0.921s] writing top-level names to ../../build/gpspoint/gpspoint.egg-info/top_level.txt
+[0.939s] reading manifest file '../../build/gpspoint/gpspoint.egg-info/SOURCES.txt'
+[0.940s] writing manifest file '../../build/gpspoint/gpspoint.egg-info/SOURCES.txt'
+[0.940s] running build
+[0.940s] running build_py
+[0.940s] copying gpspoint/gpspoint.py -> /home/osu/sensor_team/gps_ws/build/gpspoint/build/lib/gpspoint
+[0.940s] running install
+[0.940s] running install_lib
+[0.941s] copying /home/osu/sensor_team/gps_ws/build/gpspoint/build/lib/gpspoint/gpspoint.py -> /home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint
+[0.941s] byte-compiling /home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint/gpspoint.py to gpspoint.cpython-38.pyc
+[0.941s] running install_data
+[0.942s] running install_egg_info
+[0.943s] removing '/home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint-0.0.0-py3.8.egg-info' (and everything under it)
+[0.943s] Copying ../../build/gpspoint/gpspoint.egg-info to /home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint-0.0.0-py3.8.egg-info
+[0.943s] running install_scripts
+[0.953s] Installing gpspoint script to /home/osu/sensor_team/gps_ws/install/gpspoint/lib/gpspoint
+[0.953s] writing list of installed files to '/home/osu/sensor_team/gps_ws/build/gpspoint/install.log'
+[0.967s] Invoked command in '/home/osu/sensor_team/gps_ws/src/gpspoint' returned '0': PYTHONPATH=/home/osu/sensor_team/gps_ws/build/gpspoint/prefix_override:/home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gpspoint build --build-base /home/osu/sensor_team/gps_ws/build/gpspoint/build install --record /home/osu/sensor_team/gps_ws/build/gpspoint/install.log --install-scripts $base/lib/gpspoint --single-version-externally-managed

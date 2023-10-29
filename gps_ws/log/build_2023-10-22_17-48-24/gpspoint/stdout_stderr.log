@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/gpspoint/gpspoint.egg-info/PKG-INFO
+writing dependency_links to ../../build/gpspoint/gpspoint.egg-info/dependency_links.txt
+writing entry points to ../../build/gpspoint/gpspoint.egg-info/entry_points.txt
+writing requirements to ../../build/gpspoint/gpspoint.egg-info/requires.txt
+writing top-level names to ../../build/gpspoint/gpspoint.egg-info/top_level.txt
+reading manifest file '../../build/gpspoint/gpspoint.egg-info/SOURCES.txt'
+writing manifest file '../../build/gpspoint/gpspoint.egg-info/SOURCES.txt'
+running build
+running build_py
+copying gpspoint/gpspoint.py -> /home/osu/sensor_team/gps_ws/build/gpspoint/build/lib/gpspoint
+running install
+running install_lib
+copying /home/osu/sensor_team/gps_ws/build/gpspoint/build/lib/gpspoint/gpspoint.py -> /home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint
+byte-compiling /home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint/gpspoint.py to gpspoint.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/gpspoint/gpspoint.egg-info to /home/osu/sensor_team/gps_ws/install/gpspoint/lib/python3.8/site-packages/gpspoint-0.0.0-py3.8.egg-info
+running install_scripts
+Installing gpspoint script to /home/osu/sensor_team/gps_ws/install/gpspoint/lib/gpspoint
+writing list of installed files to '/home/osu/sensor_team/gps_ws/build/gpspoint/install.log'

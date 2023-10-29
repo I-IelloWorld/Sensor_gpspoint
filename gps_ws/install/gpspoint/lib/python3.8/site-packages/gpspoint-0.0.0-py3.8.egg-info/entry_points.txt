@@ -1,0 +1,3 @@
+[console_scripts]
+gpspoint = gpspoint.gpspoint:main
+
