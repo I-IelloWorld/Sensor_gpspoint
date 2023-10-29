@@ -1,6 +1,6 @@
 # Sensor_gpspoint
 Record gps point --- sensor team
-To use this:/n
+To use this:  
   Go to path "gps_ws/src/gpspoint/gpspoint".
   Open "gpspoint.py" file.
   Change the path in line 104 to a path that is suitable for your own computer.
